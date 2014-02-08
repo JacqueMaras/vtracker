@@ -11,3 +11,6 @@ Setting it up
 3. Edit your details in config.php
 4. Include vt.php in the file you want to track visitors on like this: `<?php include 'vt.php'; ?>`
 5. View result.php to view the visitors and results.
+
+Please share with your friends!
+=
