@@ -39,8 +39,6 @@ $org = $jdecode->{'org'};
 
 $hostname = $jdecode->{'hostname'};
 
-date_default_timezone_set("UTC");
-
 $date = date("Y/m/d");
 $month = date("m");
 $year = date("Y");
