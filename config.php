@@ -11,3 +11,6 @@ $config['db_password'] = "";
 
 //Your database name:
 $config['db_name'] = "vtracker"; //if you don't have one please create one
+
+//Timezone:
+$config['timezone'] = "UTC";
