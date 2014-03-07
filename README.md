@@ -1,7 +1,12 @@
 Vtracker 2.0
 ============
 
-VTracker is a visitor tracker that makes it easy for you. It uses PHP with MySQLi. It is also a great tool for if you're creating a PHP framework.
+VTracker is a visitor tracker that makes it easy for you. It uses PHP with MySQLi. It is also a great tool for if you're creating a PHP framework
+
+What's New
+----------
+
+More functions have been added to use it more easily.
 
 Setting it up
 -------------
